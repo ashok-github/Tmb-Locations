@@ -1,4 +1,4 @@
 Tmb-Locations
 =============
 
-Tmb Location IOS Version
+Tmb Location iOS Version
